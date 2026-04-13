@@ -1,5 +1,5 @@
 h1 {
-  color: blue;            /* Changes text color to blue */
+  color: rgb(212, 170, 56);            /* Changes text color to blue */
   text-align: center;     /* Centers the heading */
   font-family: Arial;     /* Sets the font to Arial */
 }
